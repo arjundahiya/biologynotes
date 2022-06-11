@@ -1,6 +1,6 @@
 ## 4.5.3 Hormonal coordination in humans
 
-#### 4.5.3.1 Human endocrine system
+### 4.5.3.1 Human endocrine system
 
 **Endocrine** - Hormones released into the bloodstream by glands
 
@@ -11,7 +11,7 @@
 |**Nervous System**|Quickly|Rapid|
 |**Endocrine System**|Slowly|Longer|
 
-Glands in the Endocrine System
+**Glands in the Endocrine System**
 
 |Gland|Location|Hormone Secreted|Purpose of Hormone|
 |---|---|---|---|
@@ -25,7 +25,7 @@ Glands in the Endocrine System
 
 **Pituitary Gland** - Master gland, secretes hormones in response to body conditions which act on other glands which produce homrones to cause effects
 
-#### 4.5.3.2 Control of blood glucose concentration
+### 4.5.3.2 Control of blood glucose concentration
 
 * BGC is monitored by the pancreas
 * If it is too high:
@@ -36,7 +36,8 @@ Glands in the Endocrine System
 	* Pancrease secretes *glucagon*
 	* Glucagon causes glycogen in the muscles and liver to be turned into glucose released into the bloodstream
 
-<u>Diabetes</u>
+**Diabetes**
+
 * Diabetes is a disease where insulin either is not produced (type 1) or body cells do not respond to insulin (type 2) 
 
 | |Type 1|Type 2|
@@ -52,17 +53,17 @@ Ways water is lost in the body:
 * Sweat from the skin (along with ions and urea)
 * Lungs - exhalation
 
-<u>Urea</u>
+**Urea**
 * Proteins are digested to produce amino acids
 * These amino acids are deaminated in the liver, forming ammonia
 * Ammonia is toxic to humans so is quickly converted into urea for safe excretion
 
-<u>Kidneys</u>
+**Kidneys**
 * Blood enters the kidneys through the renal arteries
 * Blood is filtered, small molecules such as glucose, ions and water pass through
 * These ions are then selectively reabsorped in the kidney tubule, molecules which aren't go down the ureter into the bladder as urine
 
-<u>Control of water levels</u>
+**Control of water levels**
 * Negative feedback
 * Water is reabsorbed along the kidney tubules
 * Permeability of the tubules can be changed using a hormone called *ADH*
@@ -74,7 +75,7 @@ Ways water is lost in the body:
 	* Less ADH released
 	* This makes the kidney tubule less permeable, so less water is reabsorped and more is lost as urine
 
-<u>Kidney Failure</u>
+**Kidney Failure**
 Options for treatment:
 * Kidney Transplant
 	* A donor kidney is surgically implanted to replace the failed kidney(s)
