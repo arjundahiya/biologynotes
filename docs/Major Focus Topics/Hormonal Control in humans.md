@@ -11,7 +11,7 @@
 |**Nervous System**|Quickly|Rapid|
 |**Endocrine System**|Slowly|Longer|
 
-<u>Glands in the Endocrine System</u>
+Glands in the Endocrine System
 
 |Gland|Location|Hormone Secreted|Purpose of Hormone|
 |---|---|---|---|
