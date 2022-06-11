@@ -1,3 +1,2 @@
-# Arjun's biology notes
-
-Use this site to navigate my biology notes
+# Biology Notes
+For AQA GCSE Biology (Higher) 2022 according to the advanced information
