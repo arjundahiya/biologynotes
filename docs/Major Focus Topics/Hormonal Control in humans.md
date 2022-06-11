@@ -49,21 +49,25 @@
 #### 4.5.3.3 Maintaining water and nitrogen balance in the body
 
 Ways water is lost in the body:
+
 * (Excess in) Urinating
 * Sweat from the skin (along with ions and urea)
 * Lungs - exhalation
 
 **Urea**
+
 * Proteins are digested to produce amino acids
 * These amino acids are deaminated in the liver, forming ammonia
 * Ammonia is toxic to humans so is quickly converted into urea for safe excretion
 
 **Kidneys**
+
 * Blood enters the kidneys through the renal arteries
 * Blood is filtered, small molecules such as glucose, ions and water pass through
 * These ions are then selectively reabsorped in the kidney tubule, molecules which aren't go down the ureter into the bladder as urine
 
 **Control of water levels**
+
 * Negative feedback
 * Water is reabsorbed along the kidney tubules
 * Permeability of the tubules can be changed using a hormone called *ADH*
@@ -76,7 +80,9 @@ Ways water is lost in the body:
 	* This makes the kidney tubule less permeable, so less water is reabsorped and more is lost as urine
 
 **Kidney Failure**
+
 Options for treatment:
+
 * Kidney Transplant
 	* A donor kidney is surgically implanted to replace the failed kidney(s)
 	* Donor can be living as humans can survive with 1 kidney
