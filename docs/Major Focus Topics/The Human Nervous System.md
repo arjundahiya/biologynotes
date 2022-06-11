@@ -1,5 +1,7 @@
 ### 4.5.2 - The Human Nervous System
+
 #### 4.5.2.4 - Control of Body Temperature
+
 How is body temperature monitored?:
 * Thermoregulatory centre in the brain monitors blood temperature
 * Skin contains temperature receptors and sends impulses to TC

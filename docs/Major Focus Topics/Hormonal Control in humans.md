@@ -1,6 +1,9 @@
 ## 4.5.3 Hormonal coordination in humans
+
 #### 4.5.3.1 Human endocrine system
+
 **Endocrine** - Hormones released into the bloodstream by glands
+
 **Exocrine** - Substance secreted from organs into other organs via ducts
 
 | |Effect Received|Effect Duration|
@@ -9,6 +12,7 @@
 |**Endocrine System**|Slowly|Longer|
 
 <u>Glands in the Endocrine System</u>
+
 |Gland|Location|Hormone Secreted|Purpose of Hormone|
 |---|---|---|---|
 |Pancreas|Abdomen|Insulin/glucagon|Control BG level|
@@ -22,6 +26,7 @@
 **Pituitary Gland** - Master gland, secretes hormones in response to body conditions which act on other glands which produce homrones to cause effects
 
 #### 4.5.3.2 Control of blood glucose concentration
+
 * BGC is monitored by the pancreas
 * If it is too high:
 	* Pancreas secretes *insulin*
@@ -33,6 +38,7 @@
 
 <u>Diabetes</u>
 * Diabetes is a disease where insulin either is not produced (type 1) or body cells do not respond to insulin (type 2) 
+
 | |Type 1|Type 2|
 |---|---|---|
 |**Causes**|Pancreas can't produce insulin|Body cells become resistant due to insulin|
@@ -40,6 +46,7 @@
 |**Risk Factors**|N/A|Obesity|
 
 #### 4.5.3.3 Maintaining water and nitrogen balance in the body
+
 Ways water is lost in the body:
 * (Excess in) Urinating
 * Sweat from the skin (along with ions and urea)
